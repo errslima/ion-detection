@@ -27,12 +27,12 @@ In the simulation we consider white noise and pink noise as artefacts from the d
 
 Without signal:
 
-![PDF without signal](https://imgur.com/69JjMn4)
+![PDF without signal](https://i.imgur.com/69JjMn4.png)
 
 
 With signal:
 
-![PDF with signal](https://imgur.com/ia6myHt)
+![PDF with signal](https://i.imgur.com/ia6myHt.png)
 
 Using this data, a cutoff can be made to guarantee a 99% true positive detection rate:
 
