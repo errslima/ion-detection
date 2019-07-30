@@ -14,9 +14,9 @@ The fourier transform of this signal is also calculated.
 
 [Imgur](https://i.imgur.com/4P9Sd0o.png)
 
-### Two types of noise
+### Noise
 
-In the simulation we consider white noise and pink noise as artefacts from the detector electronics.
+In the simulation we consider white noise and pink noise as artefacts from the detector electronics. The pink noise is known as 1/f noise, which actually includes a beta parameter which is the exponent. In this simulation, beta = 2 so that we have 1/f^2 noise.
 
 ![Pink noise](https://i.imgur.com/GJiivyN.png)
 
