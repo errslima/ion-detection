@@ -1,6 +1,6 @@
 # Function repository for an Image Charge Detection Simulation
 
-These code samples are a summary of the functions used to generate simulated data for the image charge detector as described in [this article](https://www.nature.com/articles/s41598-018-28167-6) (Paul Räcke, 2018).
+These code samples are a summary of the functions used to generate simulated data for a generalized signal detector.
 
 An overview of some example outputs from the different functions:
 
